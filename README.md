@@ -304,7 +304,7 @@ Dynamic Interaction: Agents can adapt their actions based on real-time observati
 | [The Double AI Agent](http://i.blackhat.com/EU-24/Presentations/EU-24-Cohen-TheDoubleAIAgent.pdf) | Black Hat EU | 2024 | - Agent manipulation techniques<br>- Double agent scenarios<br>- Defense strategies |
 | [Mind the Data Gap](http://i.blackhat.com/EU-24/Presentations/EU-24-Pappu-Mind-the-Data-Gap.pdf) | Black Hat EU | 2024 | - Privacy in AI agents<br>- Multi-agent systems<br>- Security controls |
 | [Agentic AI: New Frontier](https://aisuf.org/blogs/f/agentic-ai-a-new-frontier-in-security) | AI Security Union | 2024 | - Security implications<br>- Future trends<br>- Risk analysis |
-| [Agent Security Analysis](https://arxiv.org/abs/2409.10737) | arXiv | 2023 | - Security frameworks<br>- Vulnerability assessment<br>- Protection measures |
+| [AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing](https://arxiv.org/abs/2409.10737) | arXiv | 2024 | - Multi-agent secure code generation<br>- Static vulnerability analysis<br>- Dynamic fuzz testing |
 | [Agent Behavior Study](https://arxiv.org/pdf/2409.03793) | arXiv | 2023 | - Behavioral analysis<br>- Attack patterns<br>- Security recommendations |
 
 </div>
